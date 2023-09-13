@@ -5,10 +5,10 @@
 
     
 ### 멤버별 블로그
-* 윤휘경 : 
+* 윤휘경 : https://dayeasy.tistory.com
 * 임정준 : https://pro-gramm-ing.tistory.com/
-* 정나현 : 
-* 최지원 : 
+* 정나현 : https://nahnah-blog.tistory.com
+* 최지원 : https://d-on-e.tistory.com
 
 -----
 
