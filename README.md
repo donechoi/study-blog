@@ -31,7 +31,7 @@
 ### 블로그 링크 정리 (❌`임정준`외 수정 금지❌)
 |참여자 (4)|윤휘경|임정준|정나현|최지원|
 |:---:|:---:|:---:|:---:|:---:|
-|1주차|[[Git].gitignore 사용법 및 적용 ](https://dayeasy.tistory.com/entry/Git-gitignore-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%A0%81%EC%9A%A9)|[인코딩은 무엇이며 BASE 64 인코딩이란 무엇일까?](https://pro-gramm-ing.tistory.com/471)|:---:|[LEFT OUTTER JOIN 주의사항(데이터 관계성)](https://d-on-e.tistory.com/10)|
+|1주차|[[Git].gitignore 사용법 및 적용](https://dayeasy.tistory.com/entry/Git-gitignore-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%A0%81%EC%9A%A9)  |[인코딩은 무엇이며 BASE 64 인코딩이란 무엇일까?](https://pro-gramm-ing.tistory.com/471)|:---:|[LEFT OUTTER JOIN 주의사항(데이터 관계성)](https://d-on-e.tistory.com/10)|
 
 
 
