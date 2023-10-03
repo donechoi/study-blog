@@ -34,7 +34,7 @@
 |:-----:|:-----|:-----|:-----|:-----|
 |1주차|[[Git].gitignore 사용법 및 적용](https://dayeasy.tistory.com/entry/Git-gitignore-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%A0%81%EC%9A%A9)|[인코딩은 무엇이며 BASE 64 인코딩이란 무엇일까?](https://pro-gramm-ing.tistory.com/471)|[Spring Boot 3.x 버전에서 QueryDSL gradle 설정 (Intellij)](https://nahnah-blog.tistory.com/2)|[LEFT OUTTER JOIN 주의사항(데이터 관계성)](https://d-on-e.tistory.com/10)|
 |2주차|[[Tomcat]Tomcat start.bat 로그 한글 깨짐](https://dayeasy.tistory.com/entry/%ED%86%B0%EC%BA%A3-%EC%9C%88%EB%8F%84%EC%9A%B0-Tomcat-startupbat-%EB%A1%9C%EA%B7%B8-%ED%95%9C%EA%B8%80-%EA%B9%A8%EC%A7%90)|[MIME 이란? Content Type이란?](https://pro-gramm-ing.tistory.com/473)|[java.lang.Exception: Could not write request: no suitable HttpMessageConverter found for request type [java.util.HashMap] and content type [application/x-www-form-urlencoded]](https://nahnah-blog.tistory.com/3)|[Tomcat7 로그 설정-Window환경](https://d-on-e.tistory.com/11)|
-|3주차|[[MSSQL]트랜잭션 로그(LDF)파일 줄이기]https://dayeasy.tistory.com/entry/MSSQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EB%A1%9C%EA%B7%B8LDF-%ED%8C%8C%EC%9D%BC-%EC%9A%A9%EB%9F%89-%EC%A4%84%EC%9D%B4%EA%B8%B0|[연결 지향 통신이란 무엇일까? TCP 와 connection Oriented](https://pro-gramm-ing.tistory.com/475)|[]()|[]()|
+|3주차|[MSSQL]트랜잭션 로그(LDF)파일 줄이기]https://dayeasy.tistory.com/entry/MSSQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EB%A1%9C%EA%B7%B8LDF-%ED%8C%8C%EC%9D%BC-%EC%9A%A9%EB%9F%89-%EC%A4%84%EC%9D%B4%EA%B8%B0|[연결 지향 통신이란 무엇일까? TCP 와 connection Oriented](https://pro-gramm-ing.tistory.com/475)|[]()|[]()|
 
 
 
