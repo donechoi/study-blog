@@ -48,6 +48,7 @@
 |7주차|[[ORACLE]퀴리실행시간 확인하기(SET TIMING ON)](https://dayeasy.tistory.com/entry/Oracle-%EC%BF%BC%EB%A6%AC-%EC%8B%A4%ED%96%89-%EC%8B%9C%EA%B0%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-SET-TIMING-ON)|[CONNECT BY 사용하기 ](https://pro-gramm-ing.tistory.com/480)|[java.lang.RuntimeException: Error parsing XPath Cause: java.util.NoSuchElementException](https://nahnah-blog.tistory.com/9)||
 |8주차|[[1000번]두 수를 입력 받고 합을 출력하는 문제](https://dayeasy.tistory.com/entry/1000%EB%B2%88-%EB%91%90-%EC%88%98%EB%A5%BC-%EC%9E%85%EB%A0%A5-%EB%B0%9B%EA%B3%A0-%ED%95%A9%EC%9D%84-%EC%B6%9C%EB%A0%A5%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C)|[PIVOT - 행을 열로 바꾸기](https://pro-gramm-ing.tistory.com/472)|[java.sql.SQLException: ORA-06550: 줄 1, 열7:PLS-00201: 'PC_TEST' 식별자가 정의되어야 합니다](https://nahnah-blog.tistory.com/8)|[deploy에러](https://d-on-e.tistory.com/16)||
 |9주차|[[ORACLE] 쿼리튜닝(IN,EXSITS 비교)](https://dayeasy.tistory.com/entry/ORACLE-%EC%BF%BC%EB%A6%AC%ED%8A%9C%EB%8B%9D-IN-EXISTS-%EB%B9%84%EA%B5%90)|[[DB] 테이블의 스캔방식](https://pro-gramm-ing.tistory.com/484)|[ORA-12704: 문자 집합이 일치하지 않습니다](https://nahnah-blog.tistory.com/10)||
+|10주차|[[ORACLE] ORA-28002: the password will expire within 7 days (https://dayeasy.tistory.com/entry/ORACLE-ORA-28002-the-password-will-expire-within-7-days)|[Bulk Insert - Insert 쿼리 최적화](https://pro-gramm-ing.tistory.com/486)|[ORA-01745: 호스트/바인드 변수명이 부적합합니다.](https://nahnah-blog.tistory.com/11)||
 
 
 
