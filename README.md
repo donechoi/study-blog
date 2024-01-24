@@ -37,6 +37,9 @@
 ---
 
 ### 블로그 링크 정리 (❌`임정준`외 수정 금지❌)
+<details>
+<summary>2023.09 ~ 2023.11</summary>
+
 |참여자 (4)|윤휘경|임정준|정나현|최지원|
 |:-----:|:-----|:-----|:-----|:-----|
 |1주차|[[Git].gitignore 사용법 및 적용](https://dayeasy.tistory.com/entry/Git-gitignore-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%A0%81%EC%9A%A9)|[인코딩은 무엇이며 BASE 64 인코딩이란 무엇일까?](https://pro-gramm-ing.tistory.com/471)|[Spring Boot 3.x 버전에서 QueryDSL gradle 설정 (Intellij)](https://nahnah-blog.tistory.com/2)|[LEFT OUTTER JOIN 주의사항(데이터 관계성)](https://d-on-e.tistory.com/10)|
@@ -49,7 +52,7 @@
 |8주차|[[1000번]두 수를 입력 받고 합을 출력하는 문제](https://dayeasy.tistory.com/entry/1000%EB%B2%88-%EB%91%90-%EC%88%98%EB%A5%BC-%EC%9E%85%EB%A0%A5-%EB%B0%9B%EA%B3%A0-%ED%95%A9%EC%9D%84-%EC%B6%9C%EB%A0%A5%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C)|[PIVOT - 행을 열로 바꾸기](https://pro-gramm-ing.tistory.com/472)|[java.sql.SQLException: ORA-06550: 줄 1, 열7:PLS-00201: 'PC_TEST' 식별자가 정의되어야 합니다](https://nahnah-blog.tistory.com/8)|[deploy에러](https://d-on-e.tistory.com/16)||
 |9주차|[[ORACLE] 쿼리튜닝(IN,EXSITS 비교)](https://dayeasy.tistory.com/entry/ORACLE-%EC%BF%BC%EB%A6%AC%ED%8A%9C%EB%8B%9D-IN-EXISTS-%EB%B9%84%EA%B5%90)|[[DB] 테이블의 스캔방식](https://pro-gramm-ing.tistory.com/484)|[ORA-12704: 문자 집합이 일치하지 않습니다](https://nahnah-blog.tistory.com/10)||
 |10주차|[[ORACLE] ORA-28002: the password will expire within 7 days](https://dayeasy.tistory.com/entry/ORACLE-ORA-28002-the-password-will-expire-within-7-days)|[Bulk Insert - Insert 쿼리 최적화](https://pro-gramm-ing.tistory.com/486)|[ORA-01745: 호스트/바인드 변수명이 부적합합니다.](https://nahnah-blog.tistory.com/11)||
-
+</details>
 
 
 
