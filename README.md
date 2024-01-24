@@ -13,6 +13,10 @@
 -----
 
 ### 일정
+
+<details>
+<summary>1차 일정(2023.09 ~ 2023.11)</summary>
+
     1주차 (09.13 ~ 09.19)
     2주차 (09.20 ~ 09.26)
     3주차 (09.27 ~ 10.04)
@@ -23,6 +27,15 @@
     8주차 (11.09 ~ 11.15)
     9주차 (11.16 ~ 11.12)
     10주차 (11.23 ~ 11.29)
+</details>
+
+<details>
+<summary>2차 일정(2024.01 ~ )</summary>
+
+    1주차 (01.10 ~ 01.17)
+    2주차 (01.18 ~ 01.24)
+    3주차 (01.25 ~ 01.31)
+</details>
 
 
 ### 스터디 참여 현황 (✔➖❌)
@@ -57,8 +70,15 @@
 
 
 
+<details>
+<summary>2차: 2024.01 ~ </summary>
 
+|참여자 (4)|윤휘경|임정준|정나현|최지원|
+|:-----:|:-----|:-----|:-----|:-----|
+|1주차|[1001번 두 수를 입력 받고 뺄셈을 한 결과를 출력하는 문제](https://dayeasy.tistory.com/entry/1001%EB%B2%88-%EB%91%90-%EC%88%98%EB%A5%BC-%EC%9E%85%EB%A0%A5-%EB%B0%9B%EA%B3%A0-%EB%BA%84%EC%85%88%EC%9D%84-%ED%95%9C-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%B6%9C%EB%A0%A5%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C)|[정렬에 관한 정리-1](https://pro-gramm-ing.tistory.com/488)|[com.ibatis.common.beans.ProbeException: There is no READABLE property named 'testXxx' in class 'com.xxx.xxx.xxx.Test’](https://nahnah-blog.tistory.com/12)|[ENUM 클래스)](https://d-on-e.tistory.com/17)|
+|2주차|[]()|[정렬에 관한 정리-2](https://pro-gramm-ing.tistory.com/491)|[요청 타겟에서 유효하지 않은 문자가 발견되었습니다. 유효한 문자들은 RFC 7230과 RFC 3986에 정의되어 있습니다.](https://nahnah-blog.tistory.com/13)|[Exception](https://d-on-e.tistory.com/18)|
 
+</details>
 
 
 
